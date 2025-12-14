@@ -56,5 +56,5 @@ L’objectif est de comparer plusieurs modèles de machine learning et de sélec
 
 ---
 
-## 👩‍💻 Auteur
-Projet réalisé par **Adja Mamaro Nina Raima Traoré**, étudiante en informatique à l’UQAR – Campus de Lévis.  
+## Auteur
+Projet réalisé par **Adja Mamaro Nina Raima Traoré**, étudiante en informatique à l’UQAR – Campus de Rimouski.  
